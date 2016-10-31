@@ -1,3 +1,25 @@
 body{
-	background-color: peru; 
+		background-color: #F24D4D; 
+}
+
+
+/*h1, h2, p{
+	color:yellow;
+	font-size: 30px;
+
+}*/
+
+p span{
+	color: red;
+	font-size: 30px;
+}
+
+
+article{
+	background-color: green;
+}
+
+.identificador{
+	color: yellow;
+	background-color: maroon;
 }
